@@ -21,7 +21,7 @@ url                      : https://emranbiswas.github.io/ # the base hostname & 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "emran_423.jpg"
+  avatar           : "emran_423.png"
   name             : "Md. Emran Biswas"
   pronouns         : # example: "she/her"  
   bio              : "AI/ML Research Assistant"
