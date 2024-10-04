@@ -1,6 +1,7 @@
 ---
 title: "Flight Delay Prediction App"
-excerpt: "This web application predicts flight arrival delays using machine learning. Users can upload historical flight data to train a Linear Regression model and input specific flight details to receive real-time delay predictions.<br/><img src='/images/flight.jpg'>"
+excerpt: "This web application predicts flight arrival delays using machine learning. Users can upload historical flight data to train a Linear Regression model and input specific flight details to receive real-time delay predictions."<br/>
+<img src='/images/flight.jpg'>
 collection: portfolio
 ---
 
