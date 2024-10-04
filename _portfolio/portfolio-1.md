@@ -1,10 +1,10 @@
 ---
 title: "Flight Delay Prediction App"
 excerpt: "This web application predicts flight arrival delays using machine learning. Users can upload historical flight data to train a Linear Regression model and input specific flight details to receive real-time delay predictions.<br/>
-<img src='/images/flight.jpg'> "
+"
 collection: portfolio
 ---
-
+<img src='/images/flight.jpg'>
 <p>
         The Flight Delay Prediction App is an interactive web-based application designed to predict flight arrival delays based on various input parameters. This tool uses machine learning, specifically Linear Regression, to provide users with accurate predictions, enhancing their ability to manage travel plans effectively.
     </p>
