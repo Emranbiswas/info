@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👨‍🏫 I'm final year student in Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh.
+👨‍🏫 I've completed BSc (Engineering) in ECE from Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh.
 
 🔬 My research interest are in machine learning, optimization and drug disocovery.
 
