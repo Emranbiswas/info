@@ -20,6 +20,8 @@ Welcome! I am a data science enthusiast and aspiring researcher dedicated to des
 
 - Foundation Machine Learning Algorithm Development  
 - NLP and LLM
+- Machine Learning For Network
+- Federated Learning
 - Feature Selection Algorithm Development  
 - Privacy in AI
 - Explainable AI
