@@ -11,11 +11,7 @@ redirect_from:
 
 ---
 
-# Md. Emran Biswas
 
-Dinajpur, Bangladesh | emran.hstu1999@gmail.com | [Google Scholar] | [LinkedIn]
-
----
 
 ## RESEARCH INTERESTS
 
